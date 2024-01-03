@@ -1,0 +1,28 @@
+body {
+
+  text-align: center;
+  background-color: rgb(219, 245, 245);
+  
+}
+
+li{
+  margin:10px;
+  justify-content: right;
+}
+
+.maincontainer {
+  /* border: 2px solid green; */
+  background-color: rgb(231, 231, 17);
+  margin: 0 20% 0;
+}
+.btn-danger{
+
+  margin-left:10px
+}
+
+
+
+.text-center{
+  color:rgb(112, 165, 42);
+}
+
