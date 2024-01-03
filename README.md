@@ -1,4 +1,4 @@
-# Professional TODO App
+# TODO App
 
 Welcome to the Professional TODO App – a sleek, minimalistic task management application crafted with HTML, CSS, and JavaScript. This application provides an elegant solution for organizing your tasks efficiently, with a focus on simplicity and user experience.
 
@@ -32,13 +32,9 @@ Ensure you have a modern web browser installed, such as Chrome, Firefox, or Safa
 
 ## Usage
 
-- **Add a Task:** Enter your task in the input field and press Enter to add it to your list.
+- **Add a Task:** Enter your task in the input field and click Add to add it to your list.
 
-- **Edit a Task:** Click on a task to edit its content. Press Enter to save changes, or Esc to cancel.
-
-- **Complete/Uncomplete a Task:** Toggle the checkbox next to a task to mark it as complete or uncomplete.
-
-- **Delete a Task:** Hover over a task and click the delete icon to remove it from your list.
+- **Delete a Task:** Hover over a task and click the Delete button to remove it from your list.
 
 ## Contributing
 
@@ -52,7 +48,7 @@ If you wish to contribute to the development of this TODO App, please follow the
 
 ## Credits
 
-This TODO App was meticulously crafted by [Your Name]. Feel free to reach out for any inquiries or feedback.
+This TODO App was meticulously crafted by [Chaitanya Gautam]. Feel free to reach out for any inquiries or feedback.
 
 ## License
 
@@ -60,6 +56,6 @@ This project is licensed under the MIT License – see the [LICENSE.md](LICENSE.
 
 ---
 
-**Explore the App:** [Professional TODO App](https://github.com/your-username/todo-app)
+**Explore the App:** [TODO App](https://chaitanya-gautam.github.io/TODO-App/)
 
 Thank you for using the Professional TODO App. Happy organizing!
