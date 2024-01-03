@@ -51,7 +51,7 @@ If you wish to contribute to the development of this TODO App, please follow the
 This TODO App was meticulously crafted by Chaitanya Gautam. Feel free to reach out for any inquiries or feedback.
 
 
-
+----
 **Explore the App:** [TODO App](https://chaitanya-gautam.github.io/TODO-App/)
 
 Thank you for using the Professional TODO App. Happy organizing!
