@@ -48,13 +48,9 @@ If you wish to contribute to the development of this TODO App, please follow the
 
 ## Credits
 
-This TODO App was meticulously crafted by [Chaitanya Gautam]. Feel free to reach out for any inquiries or feedback.
+This TODO App was meticulously crafted by Chaitanya Gautam. Feel free to reach out for any inquiries or feedback.
 
-## License
 
-This project is licensed under the MIT License – see the [LICENSE.md](LICENSE.md) file for details.
-
----
 
 **Explore the App:** [TODO App](https://chaitanya-gautam.github.io/TODO-App/)
 
