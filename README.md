@@ -23,7 +23,7 @@ Ensure you have a modern web browser installed, such as Chrome, Firefox, or Safa
 1. Clone or download the repository.
 
     ```bash
-    git clone https://github.com/your-username/todo-app.git
+    git clone https://github.com/Chaitanya-Gautam/TODO-App.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
