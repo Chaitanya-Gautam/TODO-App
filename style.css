@@ -8,6 +8,7 @@ body {
 li{
   margin:10px;
   justify-content: right;
+ list-style-type: none;
 }
 
 .maincontainer {
