@@ -32,7 +32,7 @@ Welcome to my TODO App! This web application allows you to manage your tasks by 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Chaitanya-Gautam/TODO-Appt
    ```
 
 2. Open the `index.html` file in your preferred web browser.
