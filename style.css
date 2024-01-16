@@ -1,29 +1,82 @@
 body {
 
   text-align: center;
-  background-color: rgb(219, 245, 245);
-  
+  background-color: rgb(221, 254, 254);
+
 }
 
-li{
-  margin:10px;
+
+li {
+  margin: 10px;
   justify-content: right;
- list-style-type: none;
+  list-style-type: none;
+  display: flex; /* Make list items flexible */
+  align-items: center; /* Align items vertically in the center */
+  margin-right: 37%;
+  max-width: 100%;/* Set maximum width to 100% */
+  word-break: break-all;/* Break long words and prevent overflow */
+
 }
 
 .maincontainer {
-  /* border: 2px solid green; */
-  background-color: rgb(231, 231, 17);
+  border: 2px solid green;
+  background-color: rgb(211, 211, 62);
   margin: 0 20% 0;
 }
-.btn-danger{
 
-  margin-left:10px
+.text-center {
+  color: rgb(49, 84, 2);
 }
 
 
 
-.text-center{
-  color:rgb(112, 165, 42);
+
+#myBtn {
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  padding: 1.5px 20px;
+  text-align: center;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  margin:2px
+ 
 }
 
+#myBtn:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+
+
+.btn-danger  {
+  margin-left: 10px;
+  white-space: nowrap;/* Prevent the Delete button from wrapping */
+  background-image: linear-gradient(-180deg, #FF7E31, #E62C03);
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px;
+  color: #FFFFFF;
+  cursor: pointer;
+  padding: 4px 10px;
+  pointer-events: auto;
+  text-align: center;
+  touch-action: manipulation;
+  border: 0;
+}
+
+
+
+#myInput{
+color: rgb(36, 35, 42);
+font-size: 13px;
+border-radius: 4px;
+padding: 3px 15px;
+border: 2px solid transparent;
+box-shadow: rgb(0 0 0 / 12%) 0px 1px 4px, rgb(0 0 0 / 24%) 0px 1px 4px;
+background: rgb(251, 251, 251);
+transition: all 0.1s ease 0s;
+}
